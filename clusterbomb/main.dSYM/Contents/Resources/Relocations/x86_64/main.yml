@@ -1,0 +1,15 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     main
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _mesh_init_adjacency_data, symObjAddr: 0x0, symBinAddr: 0x1000011E0, symSize: 0x1540 }
+  - { offsetInCU: 0x3C, offset: 0x3C, size: 0x8, addend: 0x0, symName: _.str, symObjAddr: 0x2B00, symBinAddr: 0x100003DA0, symSize: 0x0 }
+  - { offsetInCU: 0x68, offset: 0x68, size: 0x8, addend: 0x0, symName: _.str.1, symObjAddr: 0x2B60, symBinAddr: 0x100003E00, symSize: 0x0 }
+  - { offsetInCU: 0x86, offset: 0x86, size: 0x8, addend: 0x0, symName: _.str.2, symObjAddr: 0x2BC0, symBinAddr: 0x100003E60, symSize: 0x0 }
+  - { offsetInCU: 0xA4, offset: 0xA4, size: 0x8, addend: 0x0, symName: _.str.3, symObjAddr: 0x2C00, symBinAddr: 0x100003EA0, symSize: 0x0 }
+  - { offsetInCU: 0xC2, offset: 0xC2, size: 0x8, addend: 0x0, symName: _.str.4, symObjAddr: 0x2C40, symBinAddr: 0x100003EE0, symSize: 0x0 }
+  - { offsetInCU: 0xE0, offset: 0xE0, size: 0x8, addend: 0x0, symName: _.str.5, symObjAddr: 0x2C60, symBinAddr: 0x100003F00, symSize: 0x0 }
+  - { offsetInCU: 0x1AE, offset: 0x1AE, size: 0x8, addend: 0x0, symName: _mesh_init_adjacency_data, symObjAddr: 0x0, symBinAddr: 0x1000011E0, symSize: 0x1540 }
+  - { offsetInCU: 0x2B3, offset: 0x2B3, size: 0x8, addend: 0x0, symName: _mesh_init, symObjAddr: 0x1540, symBinAddr: 0x100002720, symSize: 0x11C0 }
+  - { offsetInCU: 0x396, offset: 0x396, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x2700, symBinAddr: 0x1000038E0, symSize: 0x360 }
+...
